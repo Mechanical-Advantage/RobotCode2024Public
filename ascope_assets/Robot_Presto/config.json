@@ -1,0 +1,131 @@
+{
+  "name": "Presto",
+  "rotations": [
+    {
+      "axis": "x",
+      "degrees": 90
+    },
+    {
+      "axis": "z",
+      "degrees": 90
+    }
+  ],
+  "position": [
+    0,
+    0,
+    0
+  ],
+  "cameras": [
+    {
+      "name": "Northstar 0",
+      "rotations": [
+        {
+          "axis": "y",
+          "degrees": -28.125
+        },
+        {
+          "axis": "z",
+          "degrees": 30.0
+        }
+      ],
+      "position": [
+        0.225425,
+        0.2667,
+        0.20955
+      ],
+      "resolution": [
+        1600,
+        1200
+      ],
+      "fov": 75
+    },
+    {
+      "name": "Northstar 1",
+      "rotations": [
+        {
+          "axis": "y",
+          "degrees": -16.875
+        },
+        {
+          "axis": "z",
+          "degrees": -4.709
+        }
+      ],
+      "position": [
+        0.08255,
+        0.127,
+        0.16256
+      ],
+      "resolution": [
+        1600,
+        1200
+      ],
+      "fov": 45
+    },
+    {
+      "name": "Northstar 2",
+      "rotations": [
+        {
+          "axis": "y",
+          "degrees": -28.125
+        },
+        {
+          "axis": "z",
+          "degrees": -30.0
+        }
+      ],
+      "position": [
+        0.225425,
+        -0.2667,
+        0.20955
+      ],
+      "resolution": [
+        1600,
+        1200
+      ],
+      "fov": 75
+    },
+    {
+      "name": "Northstar 3",
+      "rotations": [
+        {
+          "axis": "y",
+          "degrees": -33.75
+        },
+        {
+          "axis": "z",
+          "degrees": 176.386
+        }
+      ],
+      "position": [
+        -0.4064,
+        -0.3048,
+        0.2159
+      ],
+      "resolution": [
+        1600,
+        1200
+      ],
+      "fov": 90
+    }
+  ],
+  "components": [
+    {
+      "zeroedRotations": [
+        {
+          "axis": "x",
+          "degrees": 90
+        },
+        {
+          "axis": "z",
+          "degrees": 90
+        }
+      ],
+      "zeroedPosition": [
+        0.238,
+        0.0,
+        -0.298
+      ]
+    }
+  ]
+}
